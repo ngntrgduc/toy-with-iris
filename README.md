@@ -1,9 +1,8 @@
 ## toy with iris
-Implementation of some classification algorithms for `iris` dataset, with some algorithms was implemented from scratch - for educational purpose.
+Implementation of some classification algorithms for `iris` dataset, with some algorithms was implemented from scratch (WIP) - for educational purpose.
 
 ### structure
 ```
-.
 ├── README.md
 ├── algorithms
 │   ├── from_scratch
